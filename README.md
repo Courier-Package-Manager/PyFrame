@@ -33,19 +33,18 @@
 <h3 align="center">PyFrame</h3>
 
   <p align="center">
-    The modern framework for PyGame
+    The modern framework for PyGame.
     <br />
     <a href="https://github.com/GH-Syn/PyFrame"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/GH-Syn/PyFrame">View Demo</a>
+    <a href="https://github.com/GH-Syn/PyFrame">Contribute</a>
     ·
     <a href="https://github.com/GH-Syn/PyFrame/issues">Report Bug</a>
     ·
     <a href="https://github.com/GH-Syn/PyFrame/issues">Request Feature</a>
   </p>
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -62,7 +61,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -83,7 +81,7 @@ automate (kind of) the process. This repository is something that I myself plan 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get starteds, simply install install PyFrame and import it into your project.
+To get started, simply install install PyFrame and import it into your project.
 
 ### Prerequisites
 
