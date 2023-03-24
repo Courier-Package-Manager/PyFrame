@@ -36,14 +36,14 @@
   <p align="center">
     The modern framework for PyGame
     <br />
-    <a href="https://github.com/JoshuaDRose/PyFrame"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/GH-Syn/PyFrame"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/JoshuaDRose/PyFrame">View Demo</a>
+    <a href="https://github.com/GH-Syn/PyFrame">View Demo</a>
     ·
-    <a href="https://github.com/JoshuaDRose/PyFrame/issues">Report Bug</a>
+    <a href="https://github.com/GH-Syn/PyFrame/issues">Report Bug</a>
     ·
-    <a href="https://github.com/JoshuaDRose/PyFrame/issues">Request Feature</a>
+    <a href="https://github.com/GH-Syn/PyFrame/issues">Request Feature</a>
   </p>
 </div>
 
@@ -104,7 +104,7 @@ To get starteds, simply install install PyFrame and import it into your project.
 
 Install pyframe with GitHub.
 
-git clone https://github.com/JoshuaDRose/PyFrame.git
+git clone https://github.com/GH-Syn/PyFrame.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
