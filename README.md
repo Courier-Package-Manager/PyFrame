@@ -69,9 +69,14 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About PyFrame
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `GH-Syn`, `PyFrame`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+I'll start off by explaining why this project has been created.
+
+I found myself typing out the same shit every time I wanted to add something new to pygame, whether that be
+physics, more sprites, assets, whatever. I eventually, as with everything, realized that I could, to an extent,
+automate (kind of) the process. This repository is something that I myself plan to use in my projects. This project
+*is* open source, however please credit this repository if it's used elsewhere.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,12 +93,21 @@ git clone https://github.com/GH-Syn/PyFrame.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+```python
+import pyframe
+
+player = pyframe.player(x=10, y=10)
+
+tiles = [
+    pyframe.tile2d(x=10, y=50, color=pyframe.red),
+    pyframe.tile2d(x=50, y=100, width=50, height=50, color=pyframe.white)
+]
+
+voxel_tile = pyframe.tile3d(x=10, y=50, z=100)
+```
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
