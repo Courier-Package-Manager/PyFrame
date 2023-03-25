@@ -1,4 +1,24 @@
+import pygame
 from dataclasses import dataclass
+
+
+@dataclass
+class Mask:
+    """
+    Mask used as a cover in stringer and swipe transitions.
+    Not intended for external use.
+    """
+
+    def __init__(self, size: list[int], color=(0, 0, 0), alpha=True):
+        """
+        :param size: Size as a list object, states the size of the  mask.
+        :param color: Color as an RGB value. Pygame values can also be used.
+        :param alpha: Does not correspond to color, parsed as a boolean value.
+        """
+
+        self.size = size
+        self.color = color
+        self.alpha = alpha
 
 
 @dataclass
@@ -17,11 +37,16 @@ class Swipe:
     transitions with as little code as possible.
     """
 
-    def __init__(self,
-                 color=list[tuple] | tuple):
+    def __init__(
+            self,
+            color=list[tuple] | tuple):
         """
         :param color: NOTE this can be more than one color!
         """
 
-        def up_to_down(self, parameter_list):
+        self.surface = pygame.display.get_surface()
+
+        def up_to_down(self):
+            """ Swipe up to down """
+
             pass
