@@ -10,6 +10,8 @@ PyFrame Documentation
    :maxdepth: 2
 
    entities/entities
+   utils/animation/animation
+
 
 Indices and tables
 ==================
