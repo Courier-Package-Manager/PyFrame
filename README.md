@@ -33,7 +33,7 @@
   <p align="center">
     The modern framework for PyGame.
     <br />
-    <a href="https://github.com/GH-Syn/PyFrame"><strong>Explore the docs »</strong></a>
+    <a href="https://gh-syn.github.io/PyFrame/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/GH-Syn/PyFrame">Contribute</a>
