@@ -1,4 +1,4 @@
-.. _Player:
+.. _Player Documentation:
 
 Overview
 ********

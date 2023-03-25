@@ -15,6 +15,7 @@ animation if needed.
 Currently the player class serves as a placeholder file
 and will later use entities as a superclass.
 
+:doc:`Player Documentation <../entities/player>`
 
 Sprite
 ------
@@ -43,7 +44,8 @@ states the following:
 .. code-block::
    :caption: This is possible because both `SRCALPHA` and `false` are valid arguments  for `pygame.Surface(_, ...).
 
-        alpha = pygame.SRCALPHA if True else False
+        alpha = True if pygame.SRCALPHA else False
+
 
 This is possible because both SRCALPHA and false are
 valid arguments in pygame.Surface(_, ...)
