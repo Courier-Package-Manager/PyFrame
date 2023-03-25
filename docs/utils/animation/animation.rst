@@ -3,9 +3,13 @@ Animation
 
 As we all have realized by now, pygame is not exactly After Effects. 
 If you don't have the luxury of GLSL, you're prone to symptoms of:
+
 * Fatigue
+
 * Depression
+
 * Restlessness
+
 * Banging head against wall syndrome
 
 
