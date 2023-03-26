@@ -67,6 +67,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About PyFrame
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/399e49259c2645d1b1624a3d6a5d1961)](https://app.codacy.com/gh/GH-Syn/PyFrame?utm_source=github.com&utm_medium=referral&utm_content=GH-Syn/PyFrame&utm_campaign=Badge_Grade)
+
 I'll start off by explaining why this project has been created.
 
 I found myself typing out the same shit every time I wanted to add something new to pygame, whether that be
