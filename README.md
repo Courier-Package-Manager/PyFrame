@@ -17,8 +17,8 @@
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Issues][issues-shield]][issues-url]
+-->
 
 
 <!-- PROJECT LOGO -->
@@ -46,6 +46,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
+<!--
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -61,13 +62,14 @@
     <li><a href="#license">License</a></li>
   </ol>
 </details>
+-->
 
+<br />
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/399e49259c2645d1b1624a3d6a5d1961)](https://app.codacy.com/gh/GH-Syn/PyFrame?utm_source=github.com&utm_medium=referral&utm_content=GH-Syn/PyFrame&utm_campaign=Badge_Grade)
 
 <!-- ABOUT THE PROJECT -->
 ## About PyFrame
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/399e49259c2645d1b1624a3d6a5d1961)](https://app.codacy.com/gh/GH-Syn/PyFrame?utm_source=github.com&utm_medium=referral&utm_content=GH-Syn/PyFrame&utm_campaign=Badge_Grade)
 
 I'll start off by explaining why this project has been created.
 
