@@ -1,4 +1,4 @@
-from .sprite import white, _Entity
+from .sprite import _Entity, white
 
 
 class Tile2D(_Entity):

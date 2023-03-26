@@ -41,6 +41,7 @@ class _Entity:
     :type image: None | pygame.surfaceType
     """
 
+    image: pygame.SurfaceType
     color: tuple
     rect: pygame.Rect
     x: int | float
@@ -48,7 +49,6 @@ class _Entity:
     width: int
     height: int
     surface: None | pygame.SurfaceType = None
-    image: pygame.SurfaceType
 
     def __init__(self):
         """
@@ -102,3 +102,4 @@ class _Entity:
             self._alpha = len(self.color) == 4
         else:
             return pygame.SRCALPHA
+
